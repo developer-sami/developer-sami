@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TensorFlow,React Native**
 
-- 👯 I’m looking to collaborate on **your next MERN project.**
+- 🧤 I’m looking to collaborate on **your next MERN project.**
 
 - 🤝 I’m looking for help with **full stack web application.**
 
