@@ -27,7 +27,7 @@ I'm a **Full-Stack Developer** specializing in the **MERN stack** and a creative
 
 - [**Real-Time Chat App**](#)  
   _A robust chat application built with Socket.IO and MERN stack._
-  ![chat app link](https://real-time-chat-application-tg3z.onrender.com/)
+  [chat app link](https://real-time-chat-application-tg3z.onrender.com/)
 - [**Football Management Web App**](#)  
   _Dynamic platform for managing football games and players._  
 - [**UI/UX Design Portfolio**](#)  
